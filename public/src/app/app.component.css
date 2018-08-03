@@ -1,0 +1,13 @@
+.margin-element{
+    margin:8px 0px;
+}
+.margin-row{
+    margin-top:45px;
+}
+.fa-trash-alt{
+    cursor: pointer;
+    opacity: 0.8;
+}
+.fa-trash-alt:hover{
+    opacity: 1;
+}
